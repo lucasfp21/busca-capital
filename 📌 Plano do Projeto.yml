@@ -1,0 +1,17 @@
+📌 Plano do Projeto
+- Configuração inicial
+- Criar os arquivos básicos (index.html, style.css, script.js).
+- Estruturar a interface com um campo de entrada e um botão de busca.
+- Buscar a API
+- Definir qual API usaremos para obter a capital do país. Podemos utilizar a RestCountries ou outra que forneça essas informações.
+- Configurar a requisição HTTP para buscar os dados.
+- Exibir os resultados
+- Mostrar a capital do país dinamicamente na página.
+- Melhorias e estilização
+- Estilizar a página para deixá-la mais agradável.
+- Adicionar mensagens de erro caso o país não seja encontrado.
+- Extras (se quiser aprimorar)
+- Implementar um sistema de histórico para mostrar pesquisas anteriores.
+- Permitir que o usuário escolha o idioma da resposta.
+Agora que temos uma visão geral, qual parte você quer começar primeiro? 🚀
+
