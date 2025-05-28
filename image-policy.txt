@@ -1,0 +1,7 @@
+# image pull policy
+    * always: sempre vai baixar a imagem
+    * if no exist: se tiver a imagem local ele baixa do registry
+    * never: nunca baixa a imagem (pouco utulilizado)
+
+    kubectl get pod <nome do pod> -o yaml
+        para ver todos os parametros do pod, inclusive o imagePullPolicy
